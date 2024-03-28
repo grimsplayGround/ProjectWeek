@@ -1,0 +1,77 @@
+*{
+    outline: 1px solid red;
+    
+}
+.flex{
+    display: flex;
+}
+.background{
+    background-color: black;
+    
+}
+.center{
+    justify-content: center; 
+}
+.burgiler{
+height: 200px;
+width: auto;
+}
+.window{
+    height: 600px;
+    width: 600px;
+    border: 10px solid silver;
+}
+.switch{
+    height: 50px;
+    width: auto;
+}
+.bacPic{
+background-color:tan ;
+justify-content: center;
+width: 500px;
+}
+.overlap{
+position: absolute;
+top: 500px;
+left: 700px;
+}
+.pad{
+    padding: 5px;
+}
+.space{
+    margin: 5px 30px;
+}
+.size{
+    height: auto;
+    width: 600px;
+}
+.lightbulb{
+    height: 150px;
+    width: 100px;
+}
+.dojoB{
+    height: 900px;
+    width: 1000px;
+}
+.dojoA{
+    height: 900px;
+    width: 700px;
+}
+.dojoS{
+    height: 900px;
+    width: 300px;
+}
+.DFsize{
+    height: 50px;
+    width: 50px;
+}
+.overlap2{
+    position: absolute;
+    top: 625px;
+    left: 620px;
+}
+.key{
+    top: 800px;
+    left: 670px;
+    
+}

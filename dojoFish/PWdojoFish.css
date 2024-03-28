@@ -1,0 +1,10 @@
+*/{
+    outline: 1px solid red;
+    margin: 0px;
+    padding: 0px;
+    background-color: bisque;
+}
+.DFsize{ 
+    height: 50px;
+    width: 50px;
+}
